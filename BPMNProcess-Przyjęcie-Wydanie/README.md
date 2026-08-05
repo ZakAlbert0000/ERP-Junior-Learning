@@ -12,7 +12,7 @@ Diagram przedstawia ścieżkę od momentu fizycznego przyjścia dostawy, przez w
 * Obsługę ścieżki wyjątków (błędy NOK): podział na rozbieżności w nazewnictwie/wykonaniu towaru (korekta kartoteki w ERP przez Dział Kartotek/Zakupów) oraz braki ilościowe/jakościowe (reklamacja do dostawcy).
 * Automatyzację systemową: generowanie dokumentów PZ/PZU oraz automatyczne alerty e-mail po zamknięciu przyjęcia przez magazyniera (Informacja dla handlowca że towar jest na stanie i można wysyłać do klienta)
 
-![Przyjęcie towaru](BPMNProcess-Przyjęcie-Wydanie/assets/Przyjecie_towaru.png)
+![Przyjęcie towaru](assets/Przyjecie_towaru.png)
 
 ---
 
@@ -26,7 +26,7 @@ Proces realizowany od momentu weryfikacji zamówienia przez handlowca, przez eta
 * Kontrolę jakościową na magazynie: weryfikacja zgodności towaru z dokumentem SPS.
 * Obsługę błędów przy kompletacji: scenariusz szybkiej naprawy pomyłki przez pracownika lub błąd skutkujący systemowym wycofaniem wydania i zamrożeniem procesu w ERP na czas wyjaśnienia.
 
-![Wydanie towaru](BPMNProcess-Przyjęcie-Wydanie/assets/Wydanie_towaru.png)
+![Wydanie towaru](assets/Wydanie_towaru.png)
 
 ---
 
